@@ -8,7 +8,7 @@ Based on [pd2-bipod-auto-highlighting](https://github.com/powware/pd2-bipod-auto
 
 ## Disabling stealth-only
 
-If you want to use outside of stealth, you have to remove line 24 located in [`main.lua`](main.lua).
+If you want to use outside of stealth, you have to remove line 9 located in [`main.lua`](main.lua#L9=).
 
 ## Showcase
 
